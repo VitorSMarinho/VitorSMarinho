@@ -19,6 +19,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />  
@@ -39,4 +40,6 @@ Programar sempre sera um mistério, então vamos descobrir o que cada codigo faz
 - [Aprendendo o que são Estrutura de Dados e Algoritmos](https://www.dio.me/certificate/A06971BC/share)<br/>
 - [Recriando o jogo da cobrinha com JavaScript](https://www.dio.me/certificate/3408B04B/share)<br/>
 - [Recriando a Interface do Netflix](https://www.dio.me/certificate/83169508/share)<br/>
+- [BackEnd - Java do Básico ao Avançado] - ##Curso em Andamento
+- [.Net - Developer Básico ao Avançado] - ##Curso em Andamento
 
