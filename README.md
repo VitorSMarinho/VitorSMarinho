@@ -20,7 +20,6 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="ELT" src="https://img.shields.io/badge/ELT-Informational?style=for-the-badge&logo=azure-data-factory&logoColor=white" />
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-    <br/>
     <img align="center" alt="Documentação de Processos" src="https://img.shields.io/badge/Documentação_de_Processos-Informational?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="center" alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
     <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -50,9 +49,10 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
 
 ## 📚 Cursos e Certificações
 
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/en-us/learning/certification-overview.aspx)  
-- [DP-203: Azure Data Engineer](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)  
-- [Big Data e Analytics na Prática](https://www.dio.me/certificate/729CEA7C/share)  
+- [DataBricks Certified: Associate Data Engineering](https://www.microsoft.com/en-us/learning/certification-overview.aspx) (Em progresso)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/en-us/learning/certification-overview.aspx) (Em progresso)
+- [DP-203: Azure Data Engineer](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) (Em progresso)
+- [Big Data e Analytics na Prática](https://www.dio.me/certificate/729CEA7C/share) (Em progresso)  
 
 ## 🎯 Objetivo
 
