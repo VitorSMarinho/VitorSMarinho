@@ -1,4 +1,3 @@
-
 ### Olá eu sou o Vitor Marinho ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho/)
@@ -42,5 +41,3 @@ Programar sempre sera um mistério, então vamos descobrir o que cada codigo faz
 - [Aprendendo o que são Estrutura de Dados e Algoritmos](https://www.dio.me/certificate/A06971BC/share)<br/>
 - [Recriando o jogo da cobrinha com JavaScript](https://www.dio.me/certificate/3408B04B/share)<br/>
 - [Recriando a Interface do Netflix](https://www.dio.me/certificate/83169508/share)<br/>
-
-
