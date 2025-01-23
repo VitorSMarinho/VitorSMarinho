@@ -16,6 +16,11 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center" alt="PySpark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+    <img align="center" alt="ETL" src="https://img.shields.io/badge/ETL-Informational?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img align="center" alt="ELT" src="https://img.shields.io/badge/ELT-Informational?style=for-the-badge&logo=azure-data-factory&logoColor=white" />
+    <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    
 </div><br/>
 
 ### Ferramentas e Plataformas
@@ -24,6 +29,12 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
     <img align="center" alt="Synapse" src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img align="center" alt="Goodle Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img align="center" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    
 </div><br/>
 
 ## 📚 IDEs e Ferramentas de Desenvolvimento
