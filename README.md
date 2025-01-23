@@ -8,6 +8,10 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorSMarinho&show_icons=true&theme=dark)
 
+## 📚 Projetos
+
+</div><br/>
+
 ## 📚 Habilidades e Tecnologias
 
 ### Principais Linguagens
