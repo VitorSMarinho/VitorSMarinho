@@ -20,6 +20,10 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="ELT" src="https://img.shields.io/badge/ELT-Informational?style=for-the-badge&logo=azure-data-factory&logoColor=white" />
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img align="center" alt="Documentação de Processos" src="https://img.shields.io/badge/Documentação_de_Processos-Informational?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+    <img align="center" alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+    <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
     
 </div><br/>
 
@@ -32,7 +36,6 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="Goodle Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img align="center" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     
 </div><br/>
