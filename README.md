@@ -21,7 +21,7 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
     <img align="center" alt="Documentação de Processos" src="https://img.shields.io/badge/Documentação_de_Processos-Informational?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    </div><br/>
+    <br/>
     <img align="center" alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
     <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
