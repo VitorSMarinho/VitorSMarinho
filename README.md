@@ -4,7 +4,7 @@ Arquiteto de Dados Júnior com experiência em engenharia de dados, processament
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorSMarinho)
-[![E-mail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Outlook-0078D4?style=for-the-[![![Outlook]badge&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@outlook.com))](mailto:vtechdata.solutions@outlook.com.br)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vtechdata.solutions@outlook.com.br)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorSMarinho&show_icons=true&theme=dark)
 
