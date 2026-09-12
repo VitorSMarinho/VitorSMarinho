@@ -3,8 +3,9 @@
 ### Engenheiro de Dados | Python · PySpark · SQL | Pipelines ETL/ELT · Databricks · Azure · AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitormarinho.lovable.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitormarinho.vercel.app)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vtechdata.solutions@outlook.com.br)
+[![Agient](https://img.shields.io/badge/Agient-111111?style=for-the-badge&logoColor=white)](https://agient.com.br)
 
 ---
 
@@ -15,6 +16,7 @@ Engenheiro de Dados com experiência em construção de pipelines **ETL/ELT esca
 Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia/hematologia)** e **mineração e metalurgia**, desenvolvendo soluções ponta a ponta — da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
 - 🔭 Atualmente buscando novas oportunidades como **Engenheiro de Dados**
+- 🚀 Fundador da **[Agient](https://agient.com.br)**, estúdio de automação e IA para comércio local
 - 🌱 Estudando **inglês** e aprofundando conhecimentos em **AWS e MLOps**
 - 💬 Aberto a oportunidades **CLT e PJ**, remoto ou híbrido
 - 📍 Taquaritinga, SP — Brasil
