@@ -14,7 +14,7 @@
 
 Engenheiro de IA & Dados com experiência construindo desde a base, com pipelines **ETL/ELT escaláveis** e arquitetura **Lakehouse (Medallion)** em Azure e AWS, até a camada de inteligência por cima dela: agentes de IA orquestrados com **RAG** consultando esses mesmos dados em tempo real.
 
-Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia/hematologia)** e **mineração e metalurgia**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
+Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia)** e **mineração e metalurgia**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
 - 🔭 Atualmente buscando novas oportunidades como **Engenheiro de IA & Dados**
 - 🚀 Fundador da [Agient](https://agient.com.br), estúdio de automação e IA para comércio local
