@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitormarinho.vercel.app)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vtechdata.solutions@outlook.com.br)
-[![Agient](https://img.shields.io/badge/Agient-111111?style=for-the-badge&logoColor=white)](https://agient.com.br)
 ![novo](https://img.shields.io/badge/novo-f3e8ff?style=flat-square)
 
 ---
@@ -17,7 +16,6 @@ Engenheiro de IA & Dados com experiência construindo desde a base, com pipeline
 Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia)** e **mineração e metalurgia**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
 - 🔭 Atualmente buscando novas oportunidades como **Engenheiro de IA & Dados**
-- 🚀 Fundador da [Agient](https://agient.com.br), estúdio de automação e IA para comércio local
 - 🌱 Estudando **inglês** e aprofundando conhecimentos em **AWS e MLOps**
 - 💬 Aberto a oportunidades **CLT e PJ**, remoto ou híbrido
 - 📍 Taquaritinga, SP, Brasil
@@ -65,7 +63,7 @@ Projetos próprios, no ar, do início ao fim: arquitetura, backend, frontend e d
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| **ARIA** | Agente de IA com RAG sobre dados reais (Databricks + Supabase), suporte à decisão em saúde | [Demo](https://agient-aria-health.vercel.app) · [Código](https://github.com/VitorSMarinho/agient-aria-health) |
+| **ARIA** | Agente de IA com RAG sobre dados reais (Databricks + Supabase), suporte à decisão em saúde | Em breve |
 | **Lazer Livre** | Marketplace de espaços para eventos, em produção | [Demo](https://lazer-livre.vercel.app) |
 | **VITRX OS** | Plataforma full-stack de operações de segurança | [Demo](https://vitrixsecuritystaff.vercel.app) |
 
