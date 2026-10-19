@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Dados com 3 anos de experiência construindo pipelines **ETL/ELT** e **Data Lakehouses (Medallion)** em **Databricks, PySpark e Delta Lake**, com integração via **Azure Data Factory** e governança sob **LGPD**. Conduzi a migração de um ambiente de dados para um **novo tenant Azure**, de Dev a Prod, e atuei na POC do **Microsoft Fabric** com a Microsoft.
+Engenheiro de Dados com 3 anos de experiência construindo pipelines **ETL/ELT** e **Data Lakehouses (Medallion)** em **Databricks, PySpark e Delta Lake**, com integração via **Azure Data Factory** e governança sob **LGPD**. Na **CBMM**, tratei dados do **SAP** em Databricks com **Unity Catalog**, da camada raw até o consumo no Power BI. Conduzi a migração de um ambiente de dados para um **novo tenant Azure**, de Dev a Prod, e atuei na POC do **Microsoft Fabric** com a Microsoft.
 
-Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia)** e **mineração e metalurgia**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
+Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia)** e **mineração e metalurgia (CBMM)**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
 Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** e agentes, com dado vetorial em PostgreSQL/pgvector. A resposta do modelo parte do dado real, e dado real precisa ser confiável.
 
@@ -34,11 +34,11 @@ Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** 
 | **Automação de Ingestão via E-mail** | Pipeline automatizado para captura de anexos via Logic Apps, armazenamento em Data Lake e transformação nas camadas raw/silver | Logic Apps, Data Factory, PySpark |
 | **Sustentação e Otimização de Pipelines** | Monitoramento contínuo, resolução de incidentes e otimização de performance em ambiente com dados volumosos | Azure Monitor, Log Analytics, SQL |
 
-### ⛏️ Setor: Mineração e Metalurgia
+### ⛏️ CBMM: Mineração e Metalurgia
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Estruturação de Dados a partir de Planilhas Excel** | Consolidação de dados descentralizados em planilhas para camadas Bronze/Silver/Gold, apoiando a área financeira na tomada de decisão | PySpark, Data Factory, Delta Lake |
+| **Lakehouse SAP: custo de produção e suprimentos** | Dados do SAP (Material Ledger e MM), orçamento via catálogo federado e preços de mercado tratados da camada raw até as views dos relatórios Power BI. Padrão de higiene do cliente implementado em funções PySpark reutilizáveis (chave MD5, metadados, soft delete), dimensões na camada de serviço, manutenção dos jobs de orquestração e validação de linhagem via information_schema | Databricks, Unity Catalog, PySpark, Delta Lake, Databricks Jobs, Power BI |
 
 ### 🧪 Projetos próprios
 
