@@ -38,7 +38,7 @@ Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Lakehouse SAP: custo de produção e suprimentos** | Dados do SAP (Material Ledger e MM), orçamento via catálogo federado e preços de mercado tratados da camada raw até as views dos relatórios Power BI. Padrão de higiene do cliente implementado em funções PySpark reutilizáveis (chave MD5, metadados, soft delete), dimensões na camada de serviço, manutenção dos jobs de orquestração e validação de linhagem via information_schema | Databricks, Unity Catalog, PySpark, Delta Lake, Databricks Jobs, Power BI |
+| **Lakehouse SAP: custo de produção e suprimentos** | Dados do SAP (Material Ledger e MM), orçamento via catálogo federado e preços de mercado tratados da camada raw até as views dos relatórios Power BI. Padrão de higiene do cliente implementado em funções PySpark reutilizáveis (chave MD5, metadados, soft delete), dimensões na camada de serviço, manutenção dos jobs de orquestração, validação de linhagem via information_schema e gestão das entregas em sprints no Azure Boards (tasks, horas, relatório semanal ao cliente) | Databricks, Unity Catalog, PySpark, Delta Lake, Databricks Jobs, Power BI, Azure DevOps |
 
 ### 🧪 Projetos próprios
 
