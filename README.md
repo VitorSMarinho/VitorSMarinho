@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Dados desde 2023, construindo pipelines **ETL/ELT** e **Data Lakehouses (Medallion)** em **Databricks, PySpark e Delta Lake**, com integração via **Azure Data Factory** e governança sob **LGPD**. Na **CBMM**, tratei dados do **SAP** em Databricks com **Unity Catalog**, da camada raw até o consumo no Power BI. Conduzi a migração de um ambiente de dados para um **novo tenant Azure**, de Dev a Prod, e atuei na POC do **Microsoft Fabric** com a Microsoft.
+Engenheiro de Dados desde 2023, construindo pipelines **ETL/ELT** e **Data Lakes no Azure** (**Synapse Analytics, Data Lake Storage Gen2, Data Factory**) e **Lakehouses em Databricks** (PySpark, Delta Lake, Medallion), com governança sob **LGPD**. Na **CBMM**, tratei dados do **SAP** em Databricks com **Unity Catalog**, da camada raw até o consumo no Power BI. Conduzi a migração de um ambiente de dados para um **novo tenant Azure**, de Dev a Prod, e atuei na POC do **Microsoft Fabric** com a Microsoft.
 
 Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (A.C.Camargo Cancer Center, oncologia)** e **mineração e metalurgia (CBMM)**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
@@ -31,7 +31,7 @@ Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** 
 |---|---|---|
 | **Migração de tenant Azure** | Mapeamento completo do ambiente antigo (Synapse, pipelines, triggers, tabelas, Storage, Key Vault, acessos por usuário), migração gradual de Dev, Prod tabela a tabela e validação de paridade de linhas, tamanhos e tipos de arquivo; esteira CI/CD reconfigurada | Synapse, Storage, Key Vault, Azure DevOps, SQL |
 | **Microsoft Fabric: POC e governança** | POC com a Microsoft e o time de Arquitetura: configuração inicial, workspace do projeto, documentação de governança (nomenclatura, padrões, acessos por nível) e habilitação de engenheiros pleno e sênior | Microsoft Fabric, RBAC |
-| **Automação de Ingestão via E-mail** | Pipeline automatizado para captura de anexos via Logic Apps, armazenamento em Data Lake e transformação nas camadas raw/silver | Logic Apps, Data Factory, PySpark |
+| **Automação de Ingestão via E-mail** | Pipeline automatizado para captura de anexos via Logic Apps, armazenamento no Data Lake e transformação nas camadas raw/silver | Logic Apps, Data Factory, Data Lake Storage Gen2, Azure Synapse |
 | **Sustentação e Otimização de Pipelines** | Monitoramento contínuo, resolução de incidentes e otimização de performance em ambiente com dados volumosos | Azure Monitor, Log Analytics, SQL |
 
 ### ⛏️ CBMM: Mineração e Metalurgia
