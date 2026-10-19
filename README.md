@@ -12,7 +12,7 @@
 
 Engenheiro de Dados com 3 anos de experiência construindo pipelines **ETL/ELT** e **Data Lakehouses (Medallion)** em **Databricks, PySpark e Delta Lake**, com integração via **Azure Data Factory** e governança sob **LGPD**. Na **CBMM**, tratei dados do **SAP** em Databricks com **Unity Catalog**, da camada raw até o consumo no Power BI. Conduzi a migração de um ambiente de dados para um **novo tenant Azure**, de Dev a Prod, e atuei na POC do **Microsoft Fabric** com a Microsoft.
 
-Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (oncologia)** e **mineração e metalurgia (CBMM)**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
+Atuei em projetos reais com grandes volumes de dados nos setores de **saúde (A.C.Camargo Cancer Center, oncologia)** e **mineração e metalurgia (CBMM)**, desenvolvendo soluções ponta a ponta, da ingestão nas camadas Bronze, Silver e Gold até a disponibilização para times de Analytics, Ciência de Dados e áreas de negócio.
 
 Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** e agentes, com dado vetorial em PostgreSQL/pgvector. A resposta do modelo parte do dado real, e dado real precisa ser confiável.
 
@@ -25,7 +25,7 @@ Nos projetos recentes levo essa base para a IA: pipelines que alimentam **RAG** 
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 Setor: Saúde (Oncologia)
+### 🏥 A.C.Camargo Cancer Center: Saúde (Oncologia)
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
