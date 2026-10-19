@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Marinho 👋
 
-### Engenheiro de Dados & IA | Databricks · PySpark · Delta Lake · Azure · Microsoft Fabric | RAG
+### Engenheiro de Dados & IA | Databricks · PySpark · Delta Lake · Azure Synapse · Data Factory | RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitormarinho.vercel.app)
