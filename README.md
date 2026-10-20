@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinho)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitormarinho.vercel.app)
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vtechdata.solutions@outlook.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitomarinho6@gmail.com)
 
 ---
 
@@ -122,8 +122,6 @@ flowchart LR
 ## 📚 Certificações em Progresso
 
 - 🔄 **Databricks Certified: Associate Data Engineer**
-- 🔄 **Microsoft Certified: Azure Data Engineer Associate (DP-203)**
-- 🔄 **Big Data e Analytics na Prática**
 
 ---
 
